@@ -60,3 +60,11 @@ source venv/bin/activate  # Para Mac/Linux
 pip install -r requirements.txt
 📈 Status Atual
 O projeto está em fase inicial de estruturação e análise exploratória dos dados. Próximos passos incluem a limpeza dos dados e o início da modelagem preditiva.
+
+### 📂 Obtenção dos Dados
+
+O dataset utilizado neste projeto é o "Telco Customer Churn", disponível publicamente na plataforma Kaggle.
+
+Para executar os notebooks, é necessário fazer o download dos dados a partir do link abaixo e colocar o arquivo `WA_Fn-UseC_-Telco-Customer-Churn.csv` dentro da pasta `data/raw/`.
+
+**Link para os dados:** [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
